@@ -1,0 +1,162 @@
+[
+  {
+    "tamanho": 2,
+    "deposito": 60,
+    "tipo": 0,
+    "nome": "Carro Braga 1",
+    "autonomia": 350,
+    "local": "Braga_0000"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 40,
+    "tipo": 1,
+    "nome": "Carro Braga 2",
+    "autonomia": 250,
+    "local": "Braga_0037"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 55,
+    "tipo": 0,
+    "nome": "Carro Braga 3",
+    "autonomia": 450,
+    "local": "Braga_0074"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 60,
+    "tipo": 1,
+    "nome": "Carro Braga 4",
+    "autonomia": 250,
+    "local": "Braga_0111"
+  },
+  {
+    "tamanho": 4,
+    "deposito": 50,
+    "tipo": 0,
+    "nome": "Carro Braga 5",
+    "autonomia": 450,
+    "local": "Braga_0148"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 55,
+    "tipo": 1,
+    "nome": "Carro Braga 6",
+    "autonomia": 450,
+    "local": "Braga_0185"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 55,
+    "tipo": 0,
+    "nome": "Carro Braga 7",
+    "autonomia": 300,
+    "local": "Braga_0222"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 55,
+    "tipo": 1,
+    "nome": "Carro Braga 8",
+    "autonomia": 300,
+    "local": "Braga_0259"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 40,
+    "tipo": 0,
+    "nome": "Carro Braga 9",
+    "autonomia": 450,
+    "local": "Braga_0296"
+  },
+  {
+    "tamanho": 4,
+    "deposito": 55,
+    "tipo": 1,
+    "nome": "Carro Braga 10",
+    "autonomia": 450,
+    "local": "Braga_0333"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 60,
+    "tipo": 0,
+    "nome": "Carro Braga 11",
+    "autonomia": 350,
+    "local": "Braga_0370"
+  },
+  {
+    "tamanho": 4,
+    "deposito": 45,
+    "tipo": 1,
+    "nome": "Carro Braga 12",
+    "autonomia": 400,
+    "local": "Braga_0407"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 60,
+    "tipo": 0,
+    "nome": "Carro Braga 13",
+    "autonomia": 400,
+    "local": "Braga_0444"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 40,
+    "tipo": 1,
+    "nome": "Carro Braga 14",
+    "autonomia": 250,
+    "local": "Braga_0481"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 55,
+    "tipo": 0,
+    "nome": "Carro Braga 15",
+    "autonomia": 450,
+    "local": "Braga_0518"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 50,
+    "tipo": 1,
+    "nome": "Carro Braga 16",
+    "autonomia": 350,
+    "local": "Braga_0555"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 45,
+    "tipo": 0,
+    "nome": "Carro Braga 17",
+    "autonomia": 450,
+    "local": "Braga_0592"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 45,
+    "tipo": 1,
+    "nome": "Carro Braga 18",
+    "autonomia": 350,
+    "local": "Braga_0629"
+  },
+  {
+    "tamanho": 4,
+    "deposito": 60,
+    "tipo": 0,
+    "nome": "Carro Braga 19",
+    "autonomia": 350,
+    "local": "Braga_0666"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 45,
+    "tipo": 1,
+    "nome": "Carro Braga 20",
+    "autonomia": 400,
+    "local": "Braga_0703"
+  }
+]

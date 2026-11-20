@@ -81,7 +81,7 @@ TaxiGreen/
 │   ├── cidades_braga.json   
 │   ├── dists_braga.json     
 │   ├── carros_braga.json   
-│   ├── incidentes_braga.json #
+│   ├── incidentes_braga.json 
 │   ├── ...                  
 │   └── mapa_leaflet.html    
 └── README.md

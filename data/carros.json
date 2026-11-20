@@ -1,0 +1,130 @@
+[
+  {
+    "tamanho": 3,
+    "deposito": 50,
+    "tipo": 0,
+    "nome": "Carro A",
+    "autonomia": 500,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 45,
+    "tipo": 1,
+    "nome": "Carro B",
+    "autonomia": 500,
+    "local": "Braga"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 55,
+    "tipo": 0,
+    "nome": "Carro C",
+    "autonomia": 600,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 40,
+    "tipo": 1,
+    "nome": "Carro D",
+    "autonomia": 300,
+    "local": "Albufeira"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 48,
+    "tipo": 0,
+    "nome": "Carro E",
+    "autonomia": 450,
+    "local": "Beja"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 60,
+    "tipo": 1,
+    "nome": "Carro F",
+    "autonomia": 400,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 46,
+    "tipo": 0,
+    "nome": "Carro G",
+    "autonomia": 470,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 5,
+    "deposito": 35,
+    "tipo": 1,
+    "nome": "Carro H",
+    "autonomia": 250,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 58,
+    "tipo": 0,
+    "nome": "Carro I",
+    "autonomia": 520,
+    "local": "Coimbra"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 48,
+    "tipo": 0,
+    "nome": "Carro J",
+    "autonomia": 450,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 20,
+    "tipo": 1,
+    "nome": "Carro K",
+    "autonomia": 100,
+    "local": "Madrid"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 46,
+    "tipo": 0,
+    "nome": "Carro L",
+    "autonomia": 470,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 1,
+    "deposito": 35,
+    "tipo": 1,
+    "nome": "Carro M",
+    "autonomia": 250,
+    "local": "Lisboa"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 58,
+    "tipo": 0,
+    "nome": "Carro N",
+    "autonomia": 520,
+    "local": "Porto"
+  },
+  {
+    "tamanho": 2,
+    "deposito": 50,
+    "tipo": 1,
+    "nome": "Carro O",
+    "autonomia": 380,
+    "local": "Leiria"
+  },
+  {
+    "tamanho": 3,
+    "deposito": 50,
+    "tipo": 0,
+    "nome": "Carro P",
+    "autonomia": 600,
+    "local": "Braga"
+  }
+]
